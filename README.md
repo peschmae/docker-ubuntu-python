@@ -8,3 +8,5 @@ versions are supported.
  - 18.04 (bionic)  
  - 16.04 (xenial)  
  - 14.04 (trusty)  
+
+The images built here, are used to test ansible-roles against ubuntu container. 
